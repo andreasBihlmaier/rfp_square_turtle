@@ -19,8 +19,8 @@ setup(
     zip_safe=True,
     maintainer='ahb',
     maintainer_email='andreas.bihlmaier@gmx.de',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Package for Robotics for Programmers book providing a Python node that draws a square in turtlesim.',
+    license='BSD',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [

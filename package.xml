@@ -3,7 +3,7 @@
 <package format="3">
   <name>rfp_square_turtle</name>
   <version>0.1.0</version>
-  <description>Python node tracing a square in turtlesim</description>
+  <description>Package for Robotics for Programmers book providing a Python node that draws a square in turtlesim.</description>
   <maintainer email="andreas.bihlmaier@gmx.de">Andreas Bihlmaier</maintainer>
   <license>BSD</license>
 
